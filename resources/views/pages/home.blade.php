@@ -53,7 +53,8 @@
     </div><!-- /menu-trigger -->
     <div class="logo-container">
         <a href="index.html" class="logo">
-            <img src="img/logo/logo4-white.png" alt="Knight Logo">
+            FA Logo
+            {{--<img src="img/logo/logo4-white.png" alt="Knight Logo">--}}
         </a>
     </div><!-- /logo-container -->
     <a href="#" class="search-form-trigger">
